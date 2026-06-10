@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Repentigny
+
+> Geotechnical engineering services in Repentigny, Canada.
+
+## Services
+- [Anchors](https://repentigny.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://repentigny.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://repentigny.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://repentigny.geotechnical-engineering.org/cpt-test/)
+- [Deep Excavations](https://repentigny.geotechnical-engineering.org/deep-excavations/)
+- [Excavation Monitoring](https://repentigny.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://repentigny.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://repentigny.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://repentigny.geotechnical-engineering.org/footings/)
+- [Foundations](https://repentigny.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://repentigny.geotechnical-engineering.org/geophysics/)
+- [Grain Size](https://repentigny.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://repentigny.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://repentigny.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://repentigny.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://repentigny.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://repentigny.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://repentigny.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://repentigny.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://repentigny.geotechnical-engineering.org/masw/)
+- [Piles](https://repentigny.geotechnical-engineering.org/piles/)
+- [Plate Load Test](https://repentigny.geotechnical-engineering.org/plate-load-test/)
+- [Resistivity](https://repentigny.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://repentigny.geotechnical-engineering.org/retaining-walls/)
+- [Rigid Pavement](https://repentigny.geotechnical-engineering.org/rigid-pavement/)
+- [Road Geotechnics](https://repentigny.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://repentigny.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://repentigny.geotechnical-engineering.org/seismic/)
+- [Seismic Isolation](https://repentigny.geotechnical-engineering.org/seismic-isolation/)
+- [Seismic Microzonation](https://repentigny.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://repentigny.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://repentigny.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://repentigny.geotechnical-engineering.org/slopes/)
+- [Soft Ground Tunnels](https://repentigny.geotechnical-engineering.org/soft-ground-tunnels/)
+- [Spt Drilling](https://repentigny.geotechnical-engineering.org/spt-drilling/)
+- [Stone Columns](https://repentigny.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://repentigny.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://repentigny.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://repentigny.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://repentigny.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Repentigny, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
